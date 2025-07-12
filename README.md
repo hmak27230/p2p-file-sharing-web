@@ -8,7 +8,7 @@ A **pure‑front‑end** simulation of a decentralized P2P file‑sharing networ
 - **Activity log** tracing every network event  
 
 View the **live demo** here:  
-➡️ [https://<hmak27230>.github.io/p2p-file-sharing-web/  ](https://<hmak27230>.github.io/p2p-file-sharing-web/)
+➡️ [[https://<hmak27230>.github.io/p2p-file-sharing-web/  ](https://<hmak27230>.github.io/p2p-file-sharing-web/)](https://hmak27230.github.io/p2p-file-sharing-web/)
 
 ---
 
